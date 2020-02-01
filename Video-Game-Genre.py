@@ -1,4 +1,4 @@
-ddef main(): #Four parameters as inputs: Publisher, ESRB Rating, Platform, and Year
+def main(): #Four parameters as inputs: Publisher, ESRB Rating, Platform, and Year
     Publisher = input("Who is your favorite publisher? "); #Publisher as in who issues games for sorted
     ESRB = input("What is the typical ESRB rating of the games you play? "); #ESRB Ratings shows intended audience for games
     Platform = input("What gaming system do you have? "); #Platform means what system the game can be played on
