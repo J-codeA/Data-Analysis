@@ -1,5 +1,9 @@
 *.arff files can be opened using WEKA*
 
+Classification Folder shows all the decision trees that were made
+
+Clustering Folder shows all the clustering methods that were conducted by me.  
+
 Video-Game-Genre.py - A program that recommends what video game the user should buy based on what they input for the video
 game publisher, platform, ESRB Rating, and year of publishing.  
 
